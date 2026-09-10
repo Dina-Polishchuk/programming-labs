@@ -10,7 +10,7 @@ student_info = {
     "age": 52,
     "height": 1.67,
 }
-number = {1,2,3,4}
+number = {1,2,3,4,4}
 print(name,type(name))
 print(age,type(age))
 print(height,type(height))
